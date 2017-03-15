@@ -10,7 +10,7 @@ f3c5e2dbcf06c9af76b6c48fbdfc2f1d3d687d08a96feea15d9a44e2856b4653  ../tests/colou
 3635b6bc2e9cdd9cf9a36ddee8b47dd728e7e4acd9ee30f9bb9d7eec3c7a684e  ../tests/colour-and-contrast-small-text-does-not-have-a-contrast-ratio-of-at-least-71-so-does-not-meet-aaa.html
 67283fc9296ec1592bcf0b0bc9d90cae9409a0ca9dea2645b19f5c5c5781e06b  ../tests/content-content-identified-by-location.html
 e3df53158564b6b546b7f29f93343d45190435b7c03da98ef4407e2ca150b121  ../tests/content-content-is-not-in-correct-reading-order-in-source-code.html
-527556fdd5c1e98a6f7e271a9e2de0023609fcbd26a2df8dcdc29f41caa453d5  ../tests/content-content-is-not-organised-into-into-well-defined-groups-or-chunks-using-headings,-lists,-and-other-visual-mechanisms.html
+d5b4e0be639d9a60174ce5116eac1d11806400591f6a0f2a854063ef38fde8eb  ../tests/content-content-is-not-organised-into-well-defined-groups-or-chunks-using-headings,-lists,-and-other-visual-mechanisms.html
 c1777040361041782576f3080288558d54e881d23cb3f2636af5eaeae4564b5f  ../tests/content-first-instance-of-abbreviation-not-expanded.html
 26805b373414817636a7db6c7a466879efe1c532a451b183de94a066b14f1fcd  ../tests/content-plain-language-is-not-used.html
 f86390689518ffdfa0ee99659ac2a945150137c5be78ac9bf0210acf5d484c25  ../tests/css-content-is-not-readable-and-functional-when-text-is-increased.html

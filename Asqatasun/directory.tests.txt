@@ -10,7 +10,7 @@ colour-and-contrast-small-text-does-not-have-a-contrast-ratio-of-at-least-45:1-s
 colour-and-contrast-small-text-does-not-have-a-contrast-ratio-of-at-least-71-so-does-not-meet-aaa.html
 content-content-identified-by-location.html
 content-content-is-not-in-correct-reading-order-in-source-code.html
-content-content-is-not-organised-into-into-well-defined-groups-or-chunks-using-headings,-lists,-and-other-visual-mechanisms.html
+content-content-is-not-organised-into-well-defined-groups-or-chunks-using-headings,-lists,-and-other-visual-mechanisms.html
 content-first-instance-of-abbreviation-not-expanded.html
 content-plain-language-is-not-used.html
 css-content-is-not-readable-and-functional-when-text-is-increased.html
